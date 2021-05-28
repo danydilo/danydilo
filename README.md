@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danydilo
+- 👋 Hi, I’m @Daniel
 - 👀 I’m interested in programming  
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on - maybe something later...
